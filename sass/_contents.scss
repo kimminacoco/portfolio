@@ -1,0 +1,827 @@
+
+.area4 {
+	min-width: 1100px;
+	height: 675px;
+	background-color: #480342;
+	padding: 75px 0;
+}
+.area4 .area4_inner {
+	width: 1100px;
+	height: 675px;
+	margin: 0 auto;
+}
+.area4 .area4_inner .title4 {
+	float: left;
+	margin-top: 300px;
+}
+.area4 .area4_inner .title4 h3 {
+	display: block;
+	line-height: 36px;
+	font-size: 32px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 900;
+	vertical-align: middle;
+	color: #fff;
+}
+.area4 .area4_inner .title4 h3:hover {
+	color: #1fb39a;
+}
+.area4 .area4_inner .text_right {
+	float: right;
+}
+.area4 .area4_inner .text_right .name2 {
+	float: right;
+}
+.area4 .area4_inner .text_right .name2 span {
+	display: block;
+	line-height: 20px;
+	font-size: 20px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	color: #fff;
+}
+.area4 .area4_inner .text_right .home1 {
+	float: right;
+	width:500px;
+	margin-top: 150px;
+}
+.area4 .area4_inner .text_right .home1 .home_left {
+	float: left;
+}
+.area4 .area4_inner .text_right .home1 .home_left span {
+	display: block;
+	line-height: 20px;
+	font-size: 18px;
+	font-weight: 400;
+	font-family: 'Noto Sans KR', sans-serif;
+	color: #fff;
+}
+.area4 .area4_inner .text_right  .home1 .home_right {
+	float: right;
+	margin-right: 65px;
+}
+.area4 .area4_inner .text_right  .home1 .home_right span {
+	display: block;
+	line-height: 20px;
+	font-size: 16px;
+	font-weight: 400;
+	font-family: 'Noto Sans KR', sans-serif;
+	color: #fff;
+}
+.area4 .area4_inner .text_right  .home1 .home_right p {
+	display: block;
+	margin: 20px 20px;
+	line-height: 30px;
+	font-size: 14px;
+	font-weight: 300;
+	font-family: 'Noto Sans KR', sans-serif;
+	color: #fff;
+}
+.area4 .area4_inner .text_right .home2 {
+	width:500px;
+	margin-right: 0;
+	margin-top: 400px;
+}
+.area4 .area4_inner .text_right .home2 .hom_left {
+	float: left;
+}
+.area4 .area4_inner .text_right .home2 .hom_left span {
+	display: block;
+	line-height: 20px;
+	font-size: 18px;
+	font-weight: 400;
+	font-family: 'Noto Sans KR', sans-serif;
+	color: #fff;
+}
+.area4 .area4_inner .text_right  .home2 .hom_right {
+	float: right;
+}
+.area4 .area4_inner .text_right  .home2 .hom_right span {
+	display: block;
+	line-height: 20px;
+	font-size: 16px;
+	font-weight: 400;
+	font-family: 'Noto Sans KR', sans-serif;
+	color: #fff;
+}
+.area4 .area4_inner .text_right  .home2 .hom_right p {
+	display: block;
+	margin: 20px 20px;
+	line-height: 30px;
+	font-size: 14px;
+	font-weight: 300;
+	font-family: 'Noto Sans KR', sans-serif;
+	color: #fff;
+}
+.area5 {
+	position: relative;
+	padding: 75px 0;
+	width: 1100px;
+	height: 2025px;
+	margin: 0 auto; 
+}
+.area5::after {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 675px;
+	width: 1100px;
+	border: 1px solid #a3abb0;
+}
+.area5 .text1 {
+	width: 1100px;
+	margin-top: 150px;
+}
+.area5 .text1 span {
+	display: block;
+	padding: 10px 0;
+	line-height: 20px;
+	font-weight: 500;
+	font-size: 16px;
+	font-family: 'Noto Sans KR', sans-serif;
+	color: #b2b2b2;
+}
+.area5 .text1 h3 {
+	display: block;
+	padding: 10px 0;
+	line-height: 36px;
+	font-weight: 900;
+	font-family: 'Noto Sans KR', sans-serif;
+	font-size: 32px;
+}
+.area5 .text2 {
+	width: 1100px;
+	margin-top: 10px;
+}
+.area5 .text2 span {
+	display: block;
+	padding: 20px 0;
+	line-height: 20px;
+	font-size: 16px;
+	font-weight: 500;
+	font-family: 'Noto Sans KR', sans-serif;
+}
+.area5 .text2 p {
+	display: block;
+	padding: 20px 0;
+	line-height: 20px;
+	font-size: 14px;
+	font-weight: 400;
+	font-family: 'Noto Sans KR', sans-serif;
+}
+.area5 .text3 {
+	float: right;
+	margin-top: 70px;
+}
+.area5 .text3 .project1 a{
+	display: block;
+	padding: 10px 0;
+	line-height: 22px;
+	font-size: 18px;
+	font-family: 'Noto Sans KR', sans-serif;
+	font-weight: 700;
+	color: #4b0959;
+}
+.area5 .text3 p {
+	display: block;
+	padding: 10px 0;
+	line-height: 22px;
+	font-size: 14px;
+	font-family: 'Noto Sans KR', sans-serif;
+	font-weight: 400;
+}
+.area5 .van1 {
+	width: 1100px;
+	height: 675px;
+	margin-top: 200px
+}
+.area5 .van1 .text_left {
+	float: left;
+}
+.area5 .van1 .text_left .deco1 {
+	margin-top: 50px;
+	width: 500px;
+}
+.area5 .van1 .text_left .deco1 span{
+	display: block;
+	padding: 10px 0;
+	line-height: 20px;
+	font-size: 16px;
+	font-weight: 700;
+	font-family: 'Open Sans', sans-serif;
+}
+.area5 .van1 .text_left .deco1 p {
+	display: block;
+	padding: 10px 0;
+	line-height: 24px;
+	font-size: 14px;
+	font-weight: 400;
+	font-family: 'Noto Sans KR', sans-serif;
+}
+.area5 .van1 .text_left .deco2 {
+	margin-top: 20px;
+}
+.area5 .van1 .text_left .deco2 span{
+	display: block;
+	padding: 10px 0;
+	line-height: 20px;
+	font-size: 16px;
+	font-weight: 700;
+	font-family: 'Open Sans', sans-serif;
+}
+.area5 .van1 .text_left .deco2 p {
+	display: block;
+	padding: 10px 0;
+	line-height: 24px;
+	font-size: 14px;
+	font-weight: 400;
+	font-family: 'Noto Sans KR', sans-serif;
+}
+.area5 .van1 .text_left .deco3 {
+	margin-top: 20px;
+}
+.area5 .van1 .text_left .deco3 span{
+	display: block;
+	padding: 10px 0;
+	line-height: 20px;
+	font-size: 16px;
+	font-weight: 700;
+	font-family: 'Open Sans', sans-serif;
+}
+.area5 .van1 .text_left .deco3 p {
+	display: block;
+	padding: 10px 0;
+	line-height: 24px;
+	font-size: 14px;
+	font-weight: 400;
+	font-family: 'Noto Sans KR', sans-serif;
+}
+.area5 .van1 .text_left .deco4 {
+	margin-top: 20px;
+}
+.area5 .van1 .text_left .deco4 span{
+	display: block;
+	padding: 10px 0;
+	line-height: 20px;
+	font-size: 16px;
+	font-weight: 700;
+	font-family: 'Open Sans', sans-serif;
+}
+.area5 .van1 .text_left .deco4 p {
+	display: block;
+	padding: 10px 0;
+	line-height: 24px;
+	font-size: 14px;
+	font-weight: 400;
+	font-family: 'Noto Sans KR', sans-serif;
+}
+.area5 .van1 .text_left .deco1 span:hover,
+.area5 .van1 .text_left .deco2 span:hover,
+.area5 .van1 .text_left .deco3 span:hover,
+.area5 .van1 .text_left .deco4 span:hover {
+	color: #1fb39a;
+}
+.area5 .van1 .image_right {
+	float: right;
+	width: 500px;
+	margin-left: 100px;
+	margin-top: 60px;
+}
+.area5 .van1 .image_right img {
+	max-width: 100%;
+	height: 675px;
+}
+.area5 .van2 {
+	width: 1100px;
+	height: 675px;
+}
+.area5 .van2 .left {
+	width: 250px;
+	margin-top: 300px;
+}
+.area5 .van2 .left .text6 span {
+	display: block;
+	padding: 15px 0;
+	font-family: 'Open Sans', sans-serif;
+	line-height: 20px;
+	font-size: 16px;
+	font-weight: 700;
+}
+.area5 .van2 .left .text6 span:hover {
+	color: #1fb39a;
+}
+.area5 .van2 .left .text6 .txt {
+	display: block;
+	padding: 5px 0;
+	line-height: 20px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+}
+.area5 .van2 .left .text6 p {
+	display: block;
+	padding: 5px 0;
+	line-height: 20px;
+	font-family: 'Noto Sans KR', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+}
+.area5 .van2 .left .title6 {
+	margin-top: 50px;
+}
+.area5 .van2 .left .title6 p {
+	display: block;
+	padding: 5px 0;
+	line-height: 20px;
+	font-size: 14px;
+	font-family: 'Noto Sans KR', sans-serif;
+	font-weight: 400;
+}
+.area5 .van2 .right {
+	float: right;
+	margin-top: -300px;
+}
+.area5 .van2 .right li {
+	display: inline-block;
+	margin-left: 10px;
+}
+.area5 .van2 .right li:first-child {
+	margin-left: 0;
+}
+.area5 .van2 .right li img {
+	width: 200px;
+	height: 100%;
+}
+.area6 {
+	position: relative;
+	padding: 75px 0;
+	width: 1100px;
+	height: 2700px;
+	margin: 0 auto;
+}
+.area6::after {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 675px;
+	width: 1100px;
+	border: 1px solid #a3abb0;
+}
+.area6 .title1 {
+	margin-top: 180px;
+	width: 1100px;
+}
+.area6 .title1 span {
+	display: block;
+	padding: 10px 0;
+	line-height: 20px;
+	font-weight: 500;
+	font-size: 16px;
+	font-family: 'Noto Sans KR', sans-serif;
+	color: #b2b2b2;
+}
+.area6 .title1 h3 {
+	display: block;
+	padding: 10px 0;
+	line-height: 36px;
+	font-weight: 900;
+	font-family: 'Noto Sans KR', sans-serif;
+	font-size: 32px;
+}
+.area6 .title2 {
+	width: 1100px;
+	margin-top: 10px;
+}
+.area6 .title2 span {
+	display: block;
+	padding: 20px 0;
+	line-height: 20px;
+	font-size: 16px;
+	font-weight: 500;
+	font-family: 'Noto Sans KR', sans-serif;
+}
+.area6 .title2 p {
+	display: block;
+	padding: 20px 0;
+	line-height: 20px;
+	font-size: 14px;
+	font-weight: 400;
+	font-family: 'Noto Sans KR', sans-serif;
+}
+.area6 .title3 {
+	float: right;
+	margin-top: 40px;
+}
+.area6 .title3 .project2 a {
+	display: block;
+	padding: 10px 0;
+	line-height: 22px;
+	font-size: 18px;
+	font-weight: 700;
+	font-family: 'Noto Sans KR', sans-serif;
+	color: #4b0959;
+}
+.area6 .title3 p {
+	display: block;
+	padding: 10px 0;
+	line-height: 22px;
+	font-size: 14px;
+	font-weight: 400;
+	font-family: 'Noto Sans KR', sans-serif;
+}
+.clearfix::before, 
+.clearfix::after {
+	content: "";
+	display: block;
+}
+.clearfix::after {
+	clear: both;
+}
+.area6 .mini1 {
+	width: 1100px;
+	height: 675px;
+	margin-top: 160px;
+}
+.area6 .mini1 .list_left {
+	float: left;
+	width: 550px;
+	/* height: 675px; */
+}
+.area6 .mini1 .list_left .desc1 {
+	margin-top: 150px;
+}
+.area6 .mini1 .list_left .desc1 span {
+	display: block;
+	padding: 10px 0;
+	line-height: 20px;
+	font-size: 16px;
+	font-weight: 700;
+	font-family: 'Open Sans', sans-serif;
+}
+.area6 .mini1 .list_left .desc1 p {
+	display: block;
+	padding: 10px 0;
+	line-height: 20px;
+	font-size: 14px;
+	font-weight: 400;
+	font-family: 'Noto Sans KR', sans-serif;
+}
+.area6 .mini1 .list_left .desc2 {
+	margin-top: 20px;
+}
+.area6 .mini1 .list_left .desc2 span {
+	display: block;
+	padding: 10px 0;
+	line-height: 20px;
+	font-size: 16px;
+	font-weight: 700;
+	font-family: 'Open Sans', sans-serif;
+}
+.area6 .mini1 .list_left .desc2 p {
+	display: block;
+	padding: 10px 0;
+	line-height: 20px;
+	font-size: 14px;
+	font-weight: 400;
+	font-family: 'Noto Sans KR', sans-serif;
+}
+.area6 .mini1 .list_left .desc3 {
+	margin-top: 20px;
+}
+.area6 .mini1 .list_left .desc3 span {
+	display: block;
+	padding: 10px 0;
+	line-height: 20px;
+	font-size: 16px;
+	font-weight: 700;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.area6 .mini1 .list_left .desc3 p {
+	display: block;
+	padding: 10px 0;
+	line-height: 20px;
+	font-size: 14px;
+	font-weight: 400;
+	font-family: 'Noto Sans KR', sans-serif;
+}
+.area6 .mini1 .list_left .desc1 span:hover,
+.area6 .mini1 .list_left .desc2 span:hover,
+.area6 .mini1 .list_left .desc3 span:hover{
+	color: #1fb39a;
+}
+.area6 .min1 .list_left .radius1 {
+	margin-top: 40px;
+}
+.area6 .mini1 .list_left .radius1 .circle1 {
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	border: 1px solid #000;
+	background-color: #198f7b;
+}
+.area6 .mini1 .list_left .radius1 .circle1 a{
+	display:block;
+	margin: 40px 0;
+	line-height: 20px;
+	font-size: 13px;
+	font-weight: 400;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+}
+.area6 .mini1 .list_left .radius1 .circle2 {
+	display: inline-block;
+	margin-left: -20px;
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	border-radius: 50%;
+	border: 1px solid #000;
+	background-color: #1fb39a;
+}
+.area6 .mini1 .list_left .radius1 .circle2 a{
+	display:block;
+	margin: 40px 0;
+	line-height: 20px;
+	font-size: 13px;
+	font-weight: 400;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+}
+.area6 .mini1 .list_left .radius1 .circle3 {
+	display: inline-block;
+	margin-left: -20px;
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	border-radius: 50%;
+	border: 1px solid #000;
+	background-color: #f1faf5;
+}
+.area6 .mini1 .list_left .radius1 .circle3 a{
+	display:block;
+	margin: 40px 0;
+	line-height: 20px;
+	font-size: 13px;
+	font-weight: 400;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+}
+.area6 .mini1 .list_left .radius1 .circle4 {
+	display: inline-block;
+	margin-left: -20px;
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	border-radius: 50%;
+	border: 1px solid #000;
+	background-color: #ffffff;
+}
+.area6 .mini1 .list_left .radius1 .circle4 a{
+	display:block;
+	margin: 40px 0;
+	line-height: 20px;
+	font-size: 13px;
+	font-weight: 400;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+}
+.area6 .mini1 .list_right {
+	width: 550px;
+	height: 675px;
+	margin-left: 550px;
+	margin-top: -450px;
+}
+.area6 .mini1 .list_right .radius2 li {
+	display: inline-block;
+	margin-left: 80px;
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border: 1px solid #000;
+	background-color: #fff;
+}
+.area6 .mini1 .list_right .radius2 li a {
+	display: block;
+	padding: 60px 0;
+	line-height: 20px;
+	font-size: 14px;
+	font-weight: 400;
+	text-align: center;
+	font-family: 'Noto Sans KR', sans-serif;
+}
+.area6 .mini1 .list_right .arrow {
+	margin-top: 80px;
+}
+.area6 .mini1 .list_right .arrow li {
+	display: inline-block;
+	margin-left: 200px;
+}
+.area6 .mini1 .list_right .arrow li:first-child {
+	margin-left: 140px;
+}
+.area6 .mini1 .list_right .radius3 {
+	margin-top: 60px;
+}
+.area6 .mini1 .list_right .radius3 li {
+	display: inline-block;
+	margin-left: 80px;
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	background-color: #000;
+}
+.area6 .mini1 .list_right .radius3 li a {
+	display: block;
+	padding: 60px 0;
+	line-height: 20px;
+	font-size: 14px;
+	font-weight: 400;
+	text-align: center;
+	font-family: 'Noto Sans KR', sans-serif;
+	color: #fff;
+}
+.area6 .mini2 {
+	width: 1100px;
+	height: 675px;
+}
+.area6 .mini2 .detail1 {
+	/* float: left; */
+	width: 540px;
+	height: 675px;
+}
+.area6 .mini2 .detail1 .tit1 {
+	margin-top: 50px;
+}
+.area6 .mini2 .detail1 .tit1 span {
+	display: block;
+	padding: 10px 0;
+	line-height: 20px;
+	font-size: 16px;
+	font-weight: 700;
+	font-family: 'Open Sans', sans-serif;
+}
+.area6 .mini2 .detail1 .tit1 p {
+	display: block;
+	padding: 10px 0;
+	line-height: 20px;
+	font-size: 14px;
+	font-weight: 400;
+	font-family: 'Noto Sans KR', sans-serif;
+}
+.area6 .mini2 .detail1 .tit2 {
+	margin-top: 50px;
+}
+.area6 .mini2 .detail1 .tit2 span {
+	display: block;
+	padding: 10px 0;
+	line-height: 20px;
+	font-size: 16px;
+	font-weight: 700;
+	font-family: 'Open Sans', sans-serif;
+}
+.area6 .mini2 .detail1 .tit2 p {
+	display: block;
+	padding: 10px 0;
+	line-height: 20px;
+	font-size: 14px;
+	font-weight: 400;
+	font-family: 'Noto Sans KR', sans-serif;
+}
+.area6 .mini2 .detail1 .tit3 {
+	margin-top: 50px;
+}
+.area6 .mini2 .detail1 .tit3 span {
+	display: block;
+	padding: 10px 0;
+	line-height: 20px;
+	font-size: 16px;
+	font-weight: 700;
+	font-family: 'Open Sans', sans-serif;
+}
+.area6 .mini2 .detail1 .tit3 p {
+	display: block;
+	padding: 10px 0;
+	line-height: 20px;
+	font-size: 14px;
+	font-weight: 400;
+	font-family: 'Noto Sans KR', sans-serif;
+}
+.area6 .mini2 .detail1 .tit4 {
+	margin-top: 50px;
+}
+.area6 .mini2 .detail1 .tit4 span {
+	display: block;
+	padding: 10px 0;
+	line-height: 20px;
+	font-size: 16px;
+	font-weight: 700;
+	font-family: 'Open Sans', sans-serif;
+}
+.area6 .mini2 .detail1 .tit4 p {
+	display: block;
+	padding: 10px 0;
+	line-height: 20px;
+	font-size: 14px;
+	font-weight: 400;
+	font-family: 'Noto Sans KR', sans-serif;
+}
+.area6 .mini2 .detail1 .tit1 span:hover,
+.area6 .mini2 .detail1 .tit2 span:hover,
+.area6 .mini2 .detail1 .tit3 span:hover,
+.area6 .mini2 .detail1 .tit4 span:hover{
+	color: #1fb39a;
+}
+.area6 .mini2 .image {
+/* 	float: right; */
+	width: 550px;
+	margin-left: 550px;
+	margin-top: -600px;
+}
+.area6 .mini2 .image img {
+	width: 100%;
+	height: 675px;
+}
+.area6 .mini3 {
+	width: 1100px;
+	height: 675px;
+	margin-top: 150px;
+}
+.area6 .mini3 .detail2 {
+	float: left;
+	width: 400px;
+	height: 675px;
+}
+.area6 .mini3 .detail2 .txt1 {
+	margin-top: 100px;
+}
+.area6 .mini3 .detail2 .txt1 span {
+	display: block;
+	padding: 10px 0;
+	line-height: 20px;
+	font-size: 16px;
+	font-weight: 700;
+	font-family: 'Open Sans', sans-serif;
+}
+.area6 .mini3 .detail2 .txt1 p {
+	display: block;
+	padding: 10px 0;
+	line-height: 20px;
+	font-size: 14px;
+	font-weight: 400;
+	font-family: 'Noto Sans KR', sans-serif;
+}
+.area6 .mini3 .detail2 .txt2 {
+	margin-top: 50px;
+}
+.area6 .mini3 .detail2 .txt2 span {
+	display: block;
+	padding: 10px 0;
+	line-height: 20px;
+	font-size: 16px;
+	font-weight: 700;
+	font-family: 'Open Sans', sans-serif;
+}
+.area6 .mini3 .detail2 .txt2 p {
+	display: block;
+	padding: 10px 0;
+	line-height: 20px;
+	font-size: 14px;
+	font-weight: 400;
+	font-family: 'Noto Sans KR', sans-serif;
+}
+.area6 .mini3 .detail2 .txt3 {
+	margin-top: 50px;
+}
+.area6 .mini3 .detail2 .txt3 span {
+	display: block;
+	padding: 10px 0;
+	line-height: 20px;
+	font-size: 16px;
+	font-weight: 700;
+	font-family: 'Open Sans', sans-serif;
+}
+.area6 .mini3 .detail2 .txt3 p {
+	display: block;
+	padding: 10px 0;
+	line-height: 20px;
+	font-size: 14px;
+	font-weight: 400;
+	font-family: 'Noto Sans KR', sans-serif;
+}
+.area6 .mini3 .detail2 .txt1 span:hover,
+.area6 .mini3 .detail2 .txt2 span:hover,
+.area6 .mini3 .detail2 .txt3 span:hover{
+	color: #1fb39a;
+}
+.area6 .mini3 .detail2 .photo {
+	float: right;
+	width: 700px;
+	height: 675px;
+}
+.area6 .mini3 .photo li {
+	display: inline-block;
+	margin-left: 30px;
+	margin-top: 120px;
+}

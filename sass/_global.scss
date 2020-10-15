@@ -1,0 +1,263 @@
+$theme-color: #1fb39a;
+$main-font: "Open Sans", "Noto Sans KR", sans-serif;
+
+body {
+	font-family: $main-font;
+}
+.area1 {
+	position: relative;
+	min-width: 1100px;
+	padding: 100px 0;
+	background-color: #480342;
+}
+.area1::after {
+	content: "";
+	display: block;
+	position: absolute;
+	left:0;
+	top: 20%;
+	width: 96px;
+	border: 1px solid #eaeaea;
+}
+.area1 .page_inner {
+	position: relative;
+	width: 1100px;
+	height: 675px;
+	margin: 0 auto;
+}
+.area1 .page_inner::after {
+	content: "";
+	display: block;
+	position: absolute;
+	left: 0;
+	top: 80%;
+	width: 1000px;
+	border: 1px solid #fff;
+}
+.nav {
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+}
+.nav li {
+	position: relative;
+	display: inline-block;
+	margin-left: 50px;
+	margin-top: 40px;
+}
+.nav li:first-child {
+	margin-left: 0;
+}
+.nav li a {
+	display: block;
+	padding: 40px 0;
+	line-height: 20px; 
+	width: 100%;
+	font-size: 16px;
+	font-weight: 600;
+	color: #fff;
+}
+.fixed_nav {
+	position: fixed;
+	width: 100%;
+	left: 0;
+	margin: 0 auto;
+	z-index: 1;
+	text-align: center;
+	top: -80px;
+	background: rgba(0,0,0,.1);
+	transition: all 0.4s;
+}
+.fixed_nav.show {
+	top: 0;
+}
+.fixed_nav li {
+	display: inline-block;
+	margin-left: 50px;
+	margin-top: 25px;
+	vertical-align: middle;
+}
+.fixed_nav li:first-child {
+	margin-left: 0;
+}
+.fixed_nav li a {
+	display: block;
+	width: 100%;
+	height: 50px;
+	font-size: 16px;
+	font-weight: 600;
+	color: #727d95;
+}
+.nav li a:hover,
+.nav li a.on,
+.fixed_nav li a:hover,
+.fixed_nav li a.on {
+	color: $theme-color;
+}
+.area1 .page_inner .keytext {
+	/* float: left; */
+	width: 1100px;
+	margin: 0 auto;
+	margin-top: 150px;
+}
+.area1 .page_inner .keytext span {
+	display: block;
+	padding: 5px 0;
+	line-height: 20px;
+	font-size: 20px;
+	font-family: $main-font;
+	font-weight: 400;
+	color: #fff;
+}
+.area1 .page_inner .keytext h3 {
+	display: block;
+	padding: 5px 0;
+	line-height: 36px;
+	font-size: 32px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 900;
+	color: #fff;
+}
+.area1 .page_inner .tip {
+	width: 1100px;
+	margin: 0 auto;
+}
+.area1 .page_inner .tip .slogan {
+	float: left;
+	display: block;
+	padding: 10px 0;
+	margin-top: 130px;
+	line-height: 24px;
+	font-size: 16px;
+	font-family: 'Noto Sans KR', sans-serif;
+	font-weight: 400;
+	color: #fff;
+}
+.area1 .page_inner .tip span {
+	float: right;
+	display: block;
+	padding: 10px 0;
+	margin-top: 150px;
+	line-height: 24px;
+	font-size: 20px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	color: #fff;
+}
+.area2 {
+	width: 1100px;
+	height: 675px;
+	margin: 0 auto;
+	padding: 75px 0;
+}
+.area2 .name1 {
+	float: left;
+	margin-top: 300px;
+	vertical-align: middle;
+}
+.area2 .name1 span {
+	display: block;
+	padding: 10px 0;
+	line-height: 24px;
+	font-size: 20px;
+	font-weight: 400;
+	font-family: 'Noto Sans KR', sans-serif;
+}
+.area2 .name1 h3 {
+	display: block;
+	padding: 5px 0;
+	line-height: 36px;
+	font-size: 32px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight:900;
+	color: #480342;
+}
+.area2 .name1 h3:hover {
+	color: #1fb39a;
+}
+.area2 .photo {
+	float: left;
+	margin-top: 150px;
+	margin-left: 150px;
+	vertical-align: middle;
+}
+.area2 .photo img {
+	width: 300px;
+	height: 300px;
+}
+.area2 .desc {
+	float: right;
+	margin-top: 150px;
+}
+.area2 .desc span {
+	display: block;
+	padding: 15px 0;
+	line-height: 24px;
+	font-size: 20px;
+	font-family: 'Noto Sans KR', sans-serif;
+	font-weight: 500;
+}
+.area2 .desc p {
+	display: block;
+	padding: 15px 0;
+	line-height: 24px;
+	font-size: 14px;
+	font-family: 'Noto Sans KR', sans-serif;
+	font-weight: 400;
+}
+.clearfix::before, 
+.clearfix::after {
+	content: "";
+	display: block;
+}
+.clearfix::after {
+	clear: both;
+}
+.area3 {
+	width: 1100px;
+	height: 675px;
+	margin: 0 auto;
+	padding: 75px 0;
+}
+.area3 .bannerlist li {
+	float: left;
+	margin-top: 30px;
+	width: 350px;
+	margin-left: 300px;
+	height: 300px;	
+}
+.area3 .bannerlist li:nth-child(2n+1) {
+	margin-left: 0;
+}
+.area3 .bannerlist .desc {
+	position: relative;
+}
+.area3 .bannerlist .desc span {
+	display: block;
+	padding: 10px 0;
+	line-height: 24px;
+	font-size: 20px;
+	font-style: italic;
+	font-weight: 700;
+	font-family: 'Open Sans', sans-serif;
+	color: #480342;
+}
+.area3 .bannerlist .desc span:hover {
+	color: #1fb39a;
+}
+.area3 .bannerlist .desc span::after {
+	content: "";
+	display: block;
+	position: absolute;
+	margin-top: 10px;
+	width: 400px;
+	border: 1px solid #413d41;
+}
+.area3 .bannerlist .desc p {
+	display: block;
+	padding: 10px 0;
+	line-height: 24px;
+	font-size: 16px;
+	font-weight: 300;
+	font-family: 'Noto Sans KR', sans-serif;
+}
